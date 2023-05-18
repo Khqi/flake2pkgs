@@ -1,0 +1,222 @@
+{
+    "awesome": {
+        "cargoLocks": null,
+        "date": "2023-05-16",
+        "extract": null,
+        "name": "awesome",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "awesomeWM",
+            "repo": "awesome",
+            "rev": "b13ac3e34d7702778a6874c1b5bca052e3b0cdc7",
+            "sha256": "sha256-GB+4rogef8dLy4ENHKdHVG3Fed4zJR8jpLAXHF1LbgY=",
+            "type": "github"
+        },
+        "version": "b13ac3e34d7702778a6874c1b5bca052e3b0cdc7"
+    },
+    "awesome-composite": {
+        "cargoLocks": null,
+        "date": "2022-10-09",
+        "extract": null,
+        "name": "awesome-composite",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "xinhaoyuan",
+            "repo": "awesome",
+            "rev": "43a54e30cdbf247733ca68a88433f410af9c0a52",
+            "sha256": "sha256-NQbmEk9LqCa/bC5ORt2SdFWOsY6A+21udNEVPKnIXKs=",
+            "type": "github"
+        },
+        "version": "43a54e30cdbf247733ca68a88433f410af9c0a52"
+    },
+    "lshw": {
+        "cargoLocks": null,
+        "date": "2023-03-20",
+        "extract": null,
+        "name": "lshw",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "lyonel",
+            "repo": "lshw",
+            "rev": "b4e067307906ec6f277cce5c8a882f5edd03cbbc",
+            "sha256": "sha256-ahdaQeYZEFCVxwAMJPMB9bfo3ndIiqFyM6OghXwtm1A=",
+            "type": "github"
+        },
+        "version": "b4e067307906ec6f277cce5c8a882f5edd03cbbc"
+    },
+    "mpv-discord": {
+        "cargoLocks": null,
+        "date": "2022-02-21",
+        "extract": null,
+        "name": "mpv-discord",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "tnychn",
+            "repo": "mpv-discord",
+            "rev": "861bfe54f4b3a1538c475fcf8e4e1fea38039419",
+            "sha256": "sha256-P1UaXGboOiqrXapfLzJI6IT3esNtflkQkcNXt4Umukc=",
+            "type": "github"
+        },
+        "version": "861bfe54f4b3a1538c475fcf8e4e1fea38039419"
+    },
+    "nvidia-exec": {
+        "cargoLocks": null,
+        "date": "2023-03-12",
+        "extract": null,
+        "name": "nvidia-exec",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "pedro00dk",
+            "repo": "nvidia-exec",
+            "rev": "9b125cd1d360b48d1f0c1be5fa939e56c71913d3",
+            "sha256": "sha256-pR7+FTedDlYKky/AxTlR4ayLqeIbCq68bjBklClrhBY=",
+            "type": "github"
+        },
+        "version": "9b125cd1d360b48d1f0c1be5fa939e56c71913d3"
+    },
+    "phocus": {
+        "cargoLocks": null,
+        "date": "2022-11-03",
+        "extract": null,
+        "name": "phocus",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "phocus",
+            "repo": "gtk",
+            "rev": "0cf0eb35a927bffcb797db8a074ce240823d92de",
+            "sha256": "sha256-URuoDJVRQ05S+u7mkz1EN5HWquhTC4OqY8MqAbl0crk=",
+            "type": "github"
+        },
+        "version": "0cf0eb35a927bffcb797db8a074ce240823d92de"
+    },
+    "picom": {
+        "cargoLocks": null,
+        "date": "2023-05-08",
+        "extract": null,
+        "name": "picom",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "yshui",
+            "repo": "picom",
+            "rev": "3aed5599c3f73cbfa53b0249795e76ab07cf9ecd",
+            "sha256": "sha256-XuQzOaR+9z6TNRwJ4sWVsLiD91bzKkXnapPdKjOxGo0=",
+            "type": "github"
+        },
+        "version": "3aed5599c3f73cbfa53b0249795e76ab07cf9ecd"
+    },
+    "picom-dccsillag": {
+        "cargoLocks": null,
+        "date": "2022-05-29",
+        "extract": null,
+        "name": "picom-dccsillag",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "dccsillag",
+            "repo": "picom",
+            "rev": "51b21355696add83f39ccdb8dd82ff5009ba0ae5",
+            "sha256": "sha256-crCwRJd859DCIC0pEerpDqdX2j8ZrNAzVaSSB3mTPN8=",
+            "type": "github"
+        },
+        "version": "51b21355696add83f39ccdb8dd82ff5009ba0ae5"
+    },
+    "picom-ft-labs": {
+        "cargoLocks": null,
+        "date": "2023-04-25",
+        "extract": null,
+        "name": "picom-ft-labs",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "FT-Labs",
+            "repo": "picom",
+            "rev": "e9834a5e350415d9e036d48304405bdb2d8a1567",
+            "sha256": "sha256-KX+/nO/nJlUjsZwVg2/vQy+byYmtnKbtxuhyiq/tWg8=",
+            "type": "github"
+        },
+        "version": "e9834a5e350415d9e036d48304405bdb2d8a1567"
+    },
+    "picom-pijulius": {
+        "cargoLocks": null,
+        "date": "2021-10-23",
+        "extract": null,
+        "name": "picom-pijulius",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "pijulius",
+            "repo": "picom",
+            "rev": "982bb43e5d4116f1a37a0bde01c9bda0b88705b9",
+            "sha256": "sha256-YiuLScDV9UfgI1MiYRtjgRkJ0VuA1TExATA2nJSJMhM=",
+            "type": "github"
+        },
+        "version": "982bb43e5d4116f1a37a0bde01c9bda0b88705b9"
+    },
+    "stevenblack-blocklist": {
+        "cargoLocks": null,
+        "date": "2023-05-16",
+        "extract": null,
+        "name": "stevenblack-blocklist",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "stevenblack",
+            "repo": "hosts",
+            "rev": "adf011ee2c48bbf1514c09bc689cff31cc6df08a",
+            "sha256": "sha256-laz9PhgEeFPpkNtpPLmmTwyna7KN13pb9KS+G8yp57M=",
+            "type": "github"
+        },
+        "version": "adf011ee2c48bbf1514c09bc689cff31cc6df08a"
+    }
+}
